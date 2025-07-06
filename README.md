@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Behairy
 
-<!--
-**behairy21/behairy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Junior C# Developer  
+💻 Passionate about backend development and .NET  
+📚 Currently working on C# projects and building my portfolio
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET
+- SQL
+- Git & GitHub
+- HTML, CSS, JS (basic)
+
+## 📁 Projects
+
+Check out my [C# Assignments Repository](https://github.com/behairy21/c--Assignments)
+
+## 📫 Contact Me
+
+- Email: your@email.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com)
