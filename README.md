@@ -18,5 +18,5 @@ Check out my [C# Assignments Repository](https://github.com/behairy21/c--Assignm
 
 ## 📫 Contact Me
 
-- Email: your@email.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com)
+- Email: abehairy.personal@gmail.com
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ahmed-behairy-075ab4364/)
