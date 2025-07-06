@@ -14,7 +14,7 @@
 
 ## 📁 Projects
 
-Check out my [C# Assignments Repository](https://github.com/behairy21/c--Assignments)
+Check out my [C# Assignments Repository](https://github.com/behairy21/cs--Assignments)
 
 ## 📫 Contact Me
 
